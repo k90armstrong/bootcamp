@@ -1,0 +1,42 @@
+body {
+    background-color: #757575;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.orange {
+	color: orange;
+}
+.big {
+	font-size: xx-large;
+}
+.tiny {
+	font-size: xx-small;
+}
+.bold {
+	font-weight: bold;
+}
+.blue {
+	color: blue;
+}
+.green {
+	color: green;
+}
+.red {
+	color: red;
+}
+.centered {
+	margin: auto;
+	text-align: center;
+	display: block;
+}
+.styledFont {
+	font-style: italic;
+	text-decoration: underline;
+}
+#styledImage {
+	border-style: solid;
+	border-radius: 3px;
+	border-color: white;
+	border-width: 5px;
+}
